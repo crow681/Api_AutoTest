@@ -1,8 +1,8 @@
 # 环境
 evn:
   # test
-    host: 139.186.140.210
-    port: 8200
+    host: 127.0.0.1
+    port: 8888
   # ppe
   # host:
   # port:
@@ -12,6 +12,6 @@ evn:
 
 # 邮件配置
 mail:
-  sender: 1286435480@qq.com # 发件邮箱
-  pass: xlvakvitatuljacc
-  user: wang-jun@bmsoft.com.cn # 收件箱
+  sender: 12345@qq.com # 发件邮箱
+  pass: zxcv
+  user: 123@163.comn # 收件箱
