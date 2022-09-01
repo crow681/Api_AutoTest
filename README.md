@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # autotestpro
 ## 说明
 框架：python+pytest+allure
@@ -36,3 +37,6 @@ allure: 生成HTML测试报告
 
 
 
+=======
+# Api_AutoTest
+>>>>>>> remotes/origin/main
